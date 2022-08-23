@@ -7,10 +7,10 @@ Git Basics Assignment - Your Instructions
 5. Add "file-1" and "file-2" to the staging area - don't add "instructions.txt" - V
 6. Change the initial text you added to "file-1" - V
 7. Now add all working directory files to the staging area - V
-8. Create the first commit
-9. Create a second branch named "feature" (two commands are possible)
-10. Add a third .txt file ("file-3.txt") to this branch
-11. Create a new commit
+8. Create the first commit - V
+9. Create a second branch named "feature" (two commands are possible) - V
+10. Add a third .txt file ("file-3.txt") to this branch - V
+11. Create a new commit - V
 12. Add the following text to "file-3": "I will be deleted"
 13. Add the updated file to the staging area
 14. Undo the staged change
